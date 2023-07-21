@@ -1,8 +1,9 @@
-### Hi there 👋, I'm Mohammad Arefin Hossain
+### Hi, I'm Mohammad Arefin Hossain👋
 #### Competitive Programmer
 ![Competitive Programmer](https://media.licdn.com/dms/image/D5616AQFvkbPxRJa73w/profile-displaybackgroundimage-shrink_350_1400/0/1672059755226?e=1695254400&v=beta&t=DNXMAkzlDI0ZELI-o0kXOTPAwmQlo-0yGSZnaBWbrNk)
 
-Student . Competitive Programmer . Web Developer
+Student . Competitive Programmer . Junior Web Developer
+![Profile views](https://gpvc.arturio.dev/arefinthecybersec)  
 
 Skills: HTML / CSS / JS / C / C++ / OOP / DS / ALGO / ORACLE DBMS / PROBLEM-SOLVING
 
@@ -22,5 +23,3 @@ Skills: HTML / CSS / JS / C / C++ / OOP / DS / ALGO / ORACLE DBMS / PROBLEM-SOLV
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arefinthecybersec&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=arefinthecybersec)  
-
-![Profile views](https://gpvc.arturio.dev/arefinthecybersec)  
