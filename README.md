@@ -1,13 +1,14 @@
-![Competitive Programmer](https://media.licdn.com/dms/image/C4E03AQHZnO_bCrI0DA/profile-displayphoto-shrink_800_800/0/1641886188327?e=1695254400&v=beta&t=Y-ZXGeJ35pR-uOmWxttHaOONbwv7PLSF-EBkEhTkwTQ)
 ### Hi there 👋, I'm Mohammad Arefin Hossain
 #### Competitive Programmer
+![Competitive Programmer](https://media.licdn.com/dms/image/D5616AQFvkbPxRJa73w/profile-displaybackgroundimage-shrink_350_1400/0/1672059755226?e=1695254400&v=beta&t=DNXMAkzlDI0ZELI-o0kXOTPAwmQlo-0yGSZnaBWbrNk)
+
 Student . Competitive Programmer . Web Developer
 
 Skills: HTML / CSS / JS / C / C++ / OOP / DS / ALGO / ORACLE DBMS / PROBLEM-SOLVING
 
-- 🎓 I’m currently working on BSC in CSE. (3rd year) 
-- 💻 I’m currently learning Javascript, php & mysql 
-- 🤝 I’m looking to collaborate on Github & Linkedin 
+- 🔭 I’m currently working on BSC in CSE. (3rd year) 
+- 🌱 I’m currently learning Javascript, php & mysql 
+- 👯 I’m looking to collaborate on Github & Linkedin 
 - 💬 Ask me about C++, Javascript & Oracle  
 - ⚡ Fun fact: Coding, Tavelling 
 
