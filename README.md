@@ -2,6 +2,8 @@
 Student. Competitive Programmer. Learn Tech Stack
 
 ![Profile views](https://gpvc.arturio.dev/arefinthecybersec)  
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Profile%20Views&query=value&url=https://your-repository-url.com/views.json)
+
 
 Skills: HTML / CSS / JS / C / C++ / OOP / DS / ALGO / ORACLE DBMS / PROBLEM-SOLVING
 
