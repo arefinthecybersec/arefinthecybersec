@@ -1,5 +1,5 @@
 ### Hi, I'm Mohammad Arefin Hossain👋
-Software Engineer in Test | Manual & API Testing | Selenium | Postman | JMeter | Java | Problem Solver (C++)
+Software Engineer in Test
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arefinthecybersec&color=green)
 
